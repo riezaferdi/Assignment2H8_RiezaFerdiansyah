@@ -1,0 +1,64 @@
+/* body {
+    background-color: rgb(215, 235, 252);
+    margin: 0;
+}
+
+.topnav {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: flex-end;
+    overflow: hidden;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+.topnav a {
+    float: left;
+    list-style-type: none;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.profile {
+    margin: 40px;
+    background-color: white;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+img {
+    height: auto;
+    width: auto; 
+    margin: 50px;
+    padding: 0px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;  
+} */
+
+/* .head {
+    display: inline-block;
+} */
+
+.port {
+    margin: 50px;
+    font-weight: bold;
+}
+
+/* form {
+    background-color: white;
+    margin: 10px;
+} */
+
+.filling {
+    display: block;
+    width: 99.35%;
+}
+
+/* #submit {
+    background-color: green;
+    color: white;
+} */
+
+
